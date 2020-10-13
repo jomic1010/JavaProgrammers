@@ -67,11 +67,15 @@ public class programmers {
 		*/
 
 		
-
+		/*
 		country124 country = new country124();
 
 		country.solution(3);
-
+		 */
+		int a[] = {1, 1, 9, 1, 1, 1};
+		
+		printer print = new printer();
+		print.solution(a, 0);
 	}
 
  
